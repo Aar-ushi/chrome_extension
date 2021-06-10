@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "EasySearch",
+    "version": "1.0.0",
+    
+    "background": {
+        "scripts": ["eventpage.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "contextMenus"
+    ]
+
+}
